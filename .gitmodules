@@ -1,0 +1,9 @@
+[submodule "herneUtils"]
+	path = herneUtils
+	url = git@github.com:2001herne/herneUtils-PKGBUILD.git
+[submodule "ps1Helpers"]
+	path = ps1Helpers
+	url = git@github.com:2001herne/ps1Helpers-PKGBUILD.git
+[submodule "distriblocks"]
+	path = distriblocks
+	url = git@github.com:2001herne/distriblocks-PKGBUILD.git
